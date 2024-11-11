@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shashank Raj
 - 👀 I’m interested in all things Python, Data, Business Intelligence and automation. 
 - 🌱 I’m currently learning Golang, creating CLI tools.
-- 😄 Pronouns: Same that you learned in the Elementary classes. 
 - ⚡ Fun fact: ...
 
 <!---
